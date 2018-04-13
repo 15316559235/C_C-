@@ -1,0 +1,3 @@
+/Volumes/SD卡/Dropbox/Sync/C_C++/BTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/SD卡/Dropbox/Sync/C_C++/BTree/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/SD卡/Dropbox/Sync/C_C++/BTree/cmake-build-debug/CMakeFiles/BTree.dir

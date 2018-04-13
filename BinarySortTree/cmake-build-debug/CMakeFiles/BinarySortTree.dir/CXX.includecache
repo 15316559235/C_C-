@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/SD卡/Dropbox/Sync/C_C++/BinarySortTree/二叉排序树.cpp
+stdio.h
+-
+stdlib.h
+-
+

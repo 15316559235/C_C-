@@ -1,0 +1,14 @@
+01:40:46 **** Incremental Build of configuration Debug for project hello_World ****
+make all 
+Building target: hello_World
+Invoking: Cross GCC Linker
+gcc  -o "hello_World"  ./hello_world.o   
+Undefined symbols for architecture x86_64:
+  "_main", referenced from:
+     implicit entry/start for main executable
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make: *** [hello_World] Error 1
+
+01:40:46 Build Finished (took 385ms)
+

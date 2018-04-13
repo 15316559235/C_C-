@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Volumes/SD卡/Dropbox/Sync/C_C++/BTree
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Volumes/SD卡/Dropbox/Sync/C_C++/BTree/cmake-build-debug
